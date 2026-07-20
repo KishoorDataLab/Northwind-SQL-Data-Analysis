@@ -31,5 +31,3 @@ This project demonstrates my SQL skills by analysing the Northwind database to a
 
 Kishor Shida
 Aspiring Data Analyst | UK
-
-Aspiring Data Analyst | UK
